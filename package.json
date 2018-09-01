@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-wild",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Centralized stylelint rules of wild",
   "main": "index.js",
   "scripts": {
