@@ -7,7 +7,7 @@ Centralized stylelint rules of wild
 Install this package, and save it as a devDependency:
 
 ```
-npm i -D stylelint-config-devine
+npm i -D stylelint-config-wild
 ```
 
 Then have your project's `.stylelintrc` file extend the ruleset.
