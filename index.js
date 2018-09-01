@@ -14,7 +14,7 @@ module.exports = {
     "comment-empty-line-before": null,
     "comment-whitespace-inside": null,
     "function-url-quotes": `never`,
-    "string-quotes": `single`,
+    "string-quotes": `double`,
     "declaration-no-important": true,
     "no-duplicate-selectors": true,
     "selector-max-id": 0,
