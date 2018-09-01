@@ -31,6 +31,7 @@ module.exports = {
     "no-extra-semicolons": true,
     "declaration-block-no-shorthand-property-overrides": true,
     "declaration-block-no-redundant-longhand-properties": [true, {ignoreShorthands: ["grid-template"]}],
+    "at-rule-no-unknown": true,
   }
 
 };
