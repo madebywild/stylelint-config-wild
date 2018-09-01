@@ -1,0 +1,22 @@
+{
+  "name": "stylelint-config-wild",
+  "version": "1.0.0",
+  "description": "Centralized stylelint rules of wild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebywild/stylelint-config-wild.git"
+  },
+  "author": "Francis De Clercq <francis@wild.as>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madebywild/stylelint-config-wild/issues"
+  },
+  "homepage": "https://github.com/madebywild/stylelint-config-wild#readme",
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
