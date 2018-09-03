@@ -33,7 +33,7 @@ module.exports = {
     "declaration-block-no-redundant-longhand-properties": [true, {ignoreShorthands: ["grid-template"]}],
     "at-rule-no-unknown": [
       true, {
-        "ignoreAtRules": ["function", "if", "each", "include", "mixin"]
+        "ignoreAtRules": ["function", "if", "each", "include", "mixin", "content"]
       }
     ],
   }
