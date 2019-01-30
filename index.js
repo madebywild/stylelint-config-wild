@@ -7,10 +7,10 @@ module.exports = {
   rules: {
     "selector-list-comma-newline-after": null,
     "block-closing-brace-empty-line-before": null,
-    "rule-empty-line-before": `always`,
+    "rule-empty-line-before": null,
     "declaration-empty-line-before": null,
     "font-family-name-quotes": `always-where-recommended`,
-    "color-named": `always-where-possible`,
+    "color-named": null,
     "comment-empty-line-before": null,
     "comment-whitespace-inside": null,
     "function-url-quotes": `never`,
@@ -26,10 +26,11 @@ module.exports = {
     "property-no-vendor-prefix": true,
     "media-feature-name-case": `lower`,
     "number-no-trailing-zeros": true,
-    "number-leading-zero": `never`,
+    "number-leading-zero": null,
     "value-keyword-case": `lower`,
     "no-extra-semicolons": true,
     "declaration-block-no-shorthand-property-overrides": true,
+    "color-hex-case": null,
     "declaration-block-no-redundant-longhand-properties": [true, {ignoreShorthands: ["grid-template"]}],
     "at-rule-no-unknown": [
       true, {
