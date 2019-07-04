@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-wild",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Centralized stylelint rules of wild",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/madebywild/stylelint-config-wild#readme",
   "dependencies": {
-    "stylelint-config-rational-order": "0.0.4",
     "stylelint-config-standard": "^18.2.0"
   }
 }
